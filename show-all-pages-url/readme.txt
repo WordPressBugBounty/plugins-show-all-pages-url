@@ -2,8 +2,8 @@
 Contributors: YYDevelopment
 Tags: show, pages, pages url, pages lists
 Requires at least: 4
-Tested up to: 6.5
-Stable tag: 2.3.0
+Tested up to: 5.8
+Stable tag: 2.4.0
 Requires PHP: 5.2.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -153,6 +153,9 @@ All you need to do it to install and activate the plugin and you will be able to
 
 = 2.3.0 =
 * Added the ability to view noindex and nofollow tags on yoast seo
+
+= 2.4.0 =
+* Added beta support for custom page types (new page)
 
 == Upgrade Notice ==
 
