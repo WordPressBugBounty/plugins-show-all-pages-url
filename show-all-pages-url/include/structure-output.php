@@ -75,6 +75,8 @@ if( isset($_POST['yydev_nonce_update_menu_option']) ) {
 
 function yydev_show_all_categories_url_table($cat_args, $div_id, $output_category_title, $dont_output_custom_blog, $serach_replace_url = '') {
 
+    $category_content = "";
+
     if( $dont_output_custom_blog == 0 ) {
 
         $out_category_content = [];

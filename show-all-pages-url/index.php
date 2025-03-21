@@ -4,7 +4,7 @@
 Plugin Name: YYDevelopment - Show Pages URL List
 Plugin URI:  https://www.yydevelopment.com/yydevelopment-wordpress-plugins/
 Description: Simple plugin that allow you view all the pages on your wordpress site
-Version:     2.4.0
+Version:     2.4.1
 Author:      YYDevelopment
 Author URI:  https://www.yydevelopment.com/
 */
