@@ -2,8 +2,8 @@
 Contributors: YYDevelopment
 Tags: show, pages, pages url, pages lists
 Requires at least: 5.0
-Tested up to: 6.8
-Stable tag: 2.4.1
+Tested up to: 6.7
+Stable tag: 2.4.2
 Requires PHP: 5.2.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -159,6 +159,9 @@ All you need to do it to install and activate the plugin and you will be able to
 
 = 2.4.1 =
 * fixed $category_content warning
+
+= 2.4.2 =
+* Fixed broken access control vulnerability 
 
 == Upgrade Notice ==
 
