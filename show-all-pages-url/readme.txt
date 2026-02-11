@@ -2,7 +2,7 @@
 Contributors: YYDevelopment
 Tags: show, pages, pages url, pages lists
 Requires at least: 5.0
-Tested up to: 6.7
+Tested up to: 6.9
 Stable tag: 2.4.2
 Requires PHP: 5.2.4
 License: GPLv2 or later
